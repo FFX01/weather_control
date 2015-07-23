@@ -5,4 +5,4 @@ This is a simple application that reads the user's location based on their ip ad
 
 It is expandable as well. All you have to do is create a new variable and use ```('element').html('data');``` to place it on the page. Check out [openweathermap](http://openweathermap.org) for information on how to use the json api.
 
-See the app in action [here](ffx01.github.io/weather_control).
+See the app in action [here](http://ffx01.github.io/weather_control).
